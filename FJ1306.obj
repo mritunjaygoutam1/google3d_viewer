@@ -5,8 +5,8 @@
 #
 # Compatibility version : 4.0
 # File ID : FJ1306
-# Representation ID : BP7377
-# Build-up logic : FMA 3.0 part_of
+# Representation ID : BP4939
+# Build-up logic : FMA 3.0 is_a
 # Concept ID : FMA49049
 # English name : Left levator palpebrae superioris
 # Bounds(mm): (11.840200,-165.393800,1520.870200)-(41.992200,-119.558800,1536.966600)
